@@ -84,9 +84,7 @@ Loss curves
 
 Confusion matrix
 
-Test dataset performance
 
-The model typically reaches around 90%+ validation accuracy depending on hyperparameters.
 
 🔍 Prediction
 
